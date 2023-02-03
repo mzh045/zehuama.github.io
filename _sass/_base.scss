@@ -151,6 +151,7 @@ blockquote {
       i::before {
         color: var(--global-text-color);
         -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
@@ -223,6 +224,7 @@ blockquote {
       i::before {
         color: var(--global-text-color);
         -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
       }
       &:hover {
         i::before {
