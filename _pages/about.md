@@ -20,6 +20,6 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, China<br>
 mzh045@ustc.edu.cn<br>
 [Google scholar](https://scholar.google.com/citations?user=Eom6m6UAAAAJ) | [DBLP](https://dblp.org/pid/240/2623.html) | [Github](https://github.com/mzh045) | [ORCID](https://orcid.org/0000-0002-8153-341X)
 
-I am currently pursuing the Ph.D. degree in cyberspace security in the University of Science and Technology of China (USTC) in the group managed by [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/).
+I am a postdoctoral researcher in the School of Cyber Science and Technology, [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), collaborated with Prof. [Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/).
 
-**Research interest:** image watermarking, image processing, and 3D printing.
+**Research interest:** digital watermarking, 3D printing, and human-computer interaction
