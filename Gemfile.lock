@@ -139,6 +139,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  uri
   jekyll
   jekyll-archives
   jekyll-diagrams
