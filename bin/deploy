@@ -92,7 +92,6 @@ fi
 git checkout -b $DEPLOY_BRANCH
 
 # Build site
-bundle update uri 
 bundle exec jekyll build
 
 # Delete and move files
