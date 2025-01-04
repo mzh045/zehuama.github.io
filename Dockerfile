@@ -11,6 +11,7 @@ ENV LANGUAGE en_US:en
 ENV LC_ALL en_US.UTF-8  
 
 # add ruby and jekyll
+RUN brew install pkg-config
 RUN apt-get install --no-install-recommends ruby-full build-essential zlib1g-dev -y 
 RUN apt-get install imagemagick libmagickcore-dev libmagickwand-dev -y 
 RUN gem install rmagick
