@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: tree.jpg
+  image: tree_L.jpg
   address: 
 
 news: false  # includes a list of news items
