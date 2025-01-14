@@ -31,7 +31,7 @@ jobs:
       run: |
         gem install uri
         gem install bundler
-        sudo apt-get install imagemagick libmagickcore-dev libmagickwand-dev -y 
+        brew info
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
         npm install -g mermaid.cli
